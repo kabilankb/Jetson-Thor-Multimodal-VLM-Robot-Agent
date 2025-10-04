@@ -1,7 +1,7 @@
 ---
 
 # 🚀 Jetson Thor Multimodal VLM Drone Agent
-
+![Image](https://github.com/user-attachments/assets/679b9c90-3d9d-4a4f-91d6-3f6800cc0548)
 ### 🤖 Conversational Drone with Edge AI + Vision-Language Model (VLM)
 
 This project demonstrates a **fully interactive multimodal drone** powered by **Jetson Thor** and the **Qwen2.5-VL-32B-Instruct-AWQ** model using **vLLM** and **ROS2**.
@@ -10,7 +10,7 @@ It enables the drone to **see, understand, and respond** in natural language —
 ---
 
 ## 🧠 System Overview
-
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/9044c195-c67b-40fd-911e-5595f27e4449" />
 The architecture connects multiple components:
 
 ```
